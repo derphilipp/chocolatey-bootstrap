@@ -9,13 +9,20 @@ $minimal = @(
     "git.install"
     "googlechrome"
     "greenshot"
+    "dosbox"
     "vscode"
+    "dbgl"
     "chocolateygui"
     "filezilla"
     "obs-studio"
     "spotify"
     "steam"
     "sysinternals"
+    "epicgameslauncher"
+    "nextcloud-client"
+    "streamlabs-obs"
+    "scummvm"
+    "vlc"
 )
 
 $selfupdating = @(
